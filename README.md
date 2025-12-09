@@ -55,7 +55,7 @@ A simple and modern interface for showcasing different iPhone models and colors.
 ## 🔗 Live Demo
 
 Check out the live demo here:
-[Live Demo](https://<your-github-username>.github.io/<your-repo-name>/)
+[Live Demo](https://iphone-color-studio.netlify.app/)
 
 ---
 
